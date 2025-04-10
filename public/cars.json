@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "brand": "Tesla",
+      "model": "Model S",
+      "priceRange": "₹80L - ₹1.2Cr",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFRlc2xhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "brand": "BMW",
+      "model": "i8",
+      "priceRange": "₹2.6Cr",
+      "fuelType": "Hybrid",
+      "seatingCapacity": 4,
+      "image": "https://images.unsplash.com/flagged/photo-1553505192-acca7d4509be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Qk1XfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 3,
+      "brand": "Audi",
+      "model": "R8",
+      "priceRange": "₹2.3Cr",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEF1ZGl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 4,
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT",
+      "priceRange": "₹2.5Cr",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWVyY2VkZXMlMjBCZW56fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 5,
+      "brand": "Ford",
+      "model": "Mustang",
+      "priceRange": "₹75L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 4,
+      "image": "https://images.unsplash.com/photo-1551830820-330a71b99659?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Rm9yZHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 6,
+      "brand": "Lamborghini",
+      "model": "Huracan",
+      "priceRange": "₹3.2Cr",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1612825173281-9a193378527e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fExhbWJvcmdoaW5pfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 7,
+      "brand": "Toyota",
+      "model": "Supra",
+      "priceRange": "₹85L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1626072557464-90403d788e8d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFRveW90YXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 8,
+      "brand": "Hyundai",
+      "model": "Creta",
+      "priceRange": "₹11L - ₹20L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1575090536203-2a6193126514?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEh5dW5kYWl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 9,
+      "brand": "Kia",
+      "model": "Seltos",
+      "priceRange": "₹10L - ₹18L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1712885046114-5ea81a2f7555?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEtpYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 10,
+      "brand": "Tata",
+      "model": "Punch",
+      "priceRange": "₹6L - ₹10L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1602438061588-4c0dd7b67f8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFRhdGElMjBjYXJzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 11,
+      "brand": "Mahindra",
+      "model": "XUV700",
+      "priceRange": "₹14L - ₹28L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "image": "https://images.unsplash.com/photo-1710225358761-4f5891df657d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFoaW5kcmF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 12,
+      "brand": "Honda",
+      "model": "City",
+      "priceRange": "₹11L - ₹16L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1605816988069-b11383b50717?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SG9uZGF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 13,
+      "brand": "Maruti Suzuki",
+      "model": "Baleno",
+      "priceRange": "₹7L - ₹10L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1632414187391-7e4097f0de6b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWFydXRpJTIwU3V6dWtpfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 14,
+      "brand": "Volkswagen",
+      "model": "Virtus",
+      "priceRange": "₹11L - ₹18L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1605475300127-0a31e8273bc2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Vm9sa3N3YWdlbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 15,
+      "brand": "Skoda",
+      "model": "Slavia",
+      "priceRange": "₹11L - ₹19L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1541845597-4b8d7bf81ebf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2tvZGF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 16,
+      "brand": "Jeep",
+      "model": "Compass",
+      "priceRange": "₹20L - ₹32L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1506015391300-4802dc74de2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SmVlcHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 17,
+      "brand": "MG",
+      "model": "Hector",
+      "priceRange": "₹15L - ₹22L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1649468351961-82480be17fb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1nfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 18,
+      "brand": "Renault",
+      "model": "Kiger",
+      "priceRange": "₹6L - ₹10L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1594502225401-a9eab8b405dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmVuYXVsdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 19,
+      "brand": "Nissan",
+      "model": "Magnite",
+      "priceRange": "₹6L - ₹10L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1551817280-6d59c77ce1b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Tmlzc2FufGVufDB8fDB8fHww"
+    },
+    {
+      "id": 20,
+      "brand": "Volvo",
+      "model": "XC90",
+      "priceRange": "₹1Cr",
+      "fuelType": "Hybrid",
+      "seatingCapacity": 7,
+      "image": "https://images.unsplash.com/photo-1629897048514-3dd7414fe72a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Vm9sdm98ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 21,
+      "brand": "Porsche",
+      "model": "911",
+      "priceRange": "₹2Cr",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8UG9yc2NoZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 22,
+      "brand": "Mini",
+      "model": "Cooper",
+      "priceRange": "₹40L - ₹50L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 4,
+      "image": "https://images.unsplash.com/photo-1626682265474-39e839533069?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWluaXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 23,
+      "brand": "Jaguar",
+      "model": "F-Type",
+      "priceRange": "₹1Cr",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "image": "https://images.unsplash.com/photo-1592929881470-65c6db486987?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SmFndWFyJTIwY2FyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 24,
+      "brand": "Land Rover",
+      "model": "Defender",
+      "priceRange": "₹95L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fExhbmQlMjBSb3ZlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 25,
+      "brand": "Tata",
+      "model": "Nexon EV",
+      "priceRange": "₹14L - ₹18L",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/9675/1743060431849/front-left-side-47.jpg?tr=w-664"
+    },
+    {
+      "id": 26,
+      "brand": "Hyundai",
+      "model": "Venue",
+      "priceRange": "₹8L - ₹13L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1715844897049-b0ad708b2f51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SHl1bmRhaSUyMHZlbnVlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 27,
+      "brand": "Maruti Suzuki",
+      "model": "Grand Vitara",
+      "priceRange": "₹10L - ₹18L",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1707646602764-2bd9bedc0c05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFydXRpJTIwU3V6dWtpJTIwJTIwR3JhbmQlMjBWaXRhcmF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 28,
+      "brand": "Toyota",
+      "model": "Fortuner",
+      "priceRange": "₹35L - ₹52L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "image": "https://images.unsplash.com/photo-1664783856972-ac9922d7b2d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VG95b3RhJTIwZm9ydHVuZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 29,
+      "brand": "Mahindra",
+      "model": "Thar",
+      "priceRange": "₹13L - ₹17L",
+      "fuelType": "Diesel",
+      "seatingCapacity": 4,
+      "image": "https://images.unsplash.com/photo-1633867179970-c54688bcfa33?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFoaW5kcmElMjB0aGFyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 30,
+      "brand": "BYD",
+      "model": "Atto 3",
+      "priceRange": "₹34L",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "image": "https://images.unsplash.com/photo-1728469876516-17a32611eb24?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QllEfGVufDB8fDB8fHww"
+    }
+  ]
+  
